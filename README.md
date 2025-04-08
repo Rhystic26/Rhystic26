@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Rhystic26!
-- 👀 I’m interested in **game design**, **post-collapse computing**, and **interactive storytelling**.
-- 🌱 I’m currently learning **libGDX** and **x86_64** assembly.
+- 👋 Hi, I’m @Rhystic26! I like to make art and write weird programs.
+- 👀 I’m interested in **game design**, **interactive storytelling**, and **post-collapse computing**.
 - 💞️ If you're interested in collaborating on a project, send me a DM!
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/they
 - ⚡ Fun fact: When I was in middle school, the IT department let me hang out in their offices and gave me old computer parts in exchange for building IKEA furniture.
 
 <!---
